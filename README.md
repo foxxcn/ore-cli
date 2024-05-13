@@ -1,12 +1,12 @@
-# Ore CLI
+# Ore CLI ⚙️
 
-A command line interface for the Ore program.
+一个用于 Ore 程序的命令行界面。
 
-## Building
+## 构建 🛠️
 
-To build the Ore CLI, you will need to have the Rust programming language installed. You can install Rust by following the instructions on the [Rust website](https://www.rust-lang.org/tools/install).
+要构建 Ore CLI，您需要安装 Rust 编程语言。您可以按照 [Rust 官网](https://www.rust-lang.org/tools/install)上的说明进行安装。
 
-Once you have Rust installed, you can build the Ore CLI by running the following command:
+安装 Rust 后，您可以通过运行以下命令来构建 Ore CLI：
 
 ```sh
 cargo build --release
